@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently developing my knowledge about **React.js**
 
-- 👨‍💻 All of my projects are available at [https://github.com/kamilstan](https://github.com/kamilstan)
+- 👨‍💻 Feel free to check my projects!
 
-- 📫 You can reach me here: **kamilstangret@wp.pl**
+- 📫 You can reach me here: **kamilstangret@wp.pl** or here: **https://www.linkedin.com/in/kamil-stangret/**
 
 
 
